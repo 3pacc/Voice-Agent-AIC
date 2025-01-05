@@ -27,7 +27,7 @@ There are 4 required steps and 1 optional step to get the app up-and-running loc
 2. (optional) Create and use a virtual environment
 3. Install the packages
 4. Twilio setup
-5. Update the .env file
+5. Create your .env file and add you OpenAI API Key
 
 ### Open an ngrok tunnel
 When developing & testing locally, you'll need to open a tunnel to forward requests to your local development server. These instructions use ngrok.
